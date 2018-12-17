@@ -8,3 +8,5 @@
    <?php include 'inc/components-berita.php'; ?>
 
    <?php include 'inc/components-si-terpadu.php'; ?>
+
+   <?php include 'inc/components-socmed.php'; ?>
