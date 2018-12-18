@@ -5,69 +5,252 @@
         </div>
 
         <div class="row">
-            <div class="col-xs-12 col-sm-6 single-work">
-                <div class="recent-work-wrap">
-                <img class="img-responsive" src="<?=$this->asset('/images/portfolio/item-2.png')?>" alt="">
-                    <div class="overlay">
-                        <div class="recent-work-inner">
-                            <a class="preview" href="images/portfolio/item-2.png" rel="prettyPhoto"><i class="fa fa-plus"></i></a>
+            <div class="col-md-6">
+                <div class="news2 owl-carousel owl-theme">
+                    <div class="item post-slide2">
+                        <div class="post-img">
+                            <a href="#"><img src="http://bestjquery.com/tutorial/news-slider/demo33/images/img-1.jpg" alt=""></a>
+                        </div>
+                        <div class="post-content">
+                            <h3 class="post-title"><a href="#">Latest News Post</a></h3>
+                            <ul class="post-bar list-inline">
+                                <li><i class="fa fa-calendar"></i> June 5, 2016</li>
+                                <li>
+                                    <i class="fa fa-folder"></i>
+                                    <a href="#">Mockup</a>
+                                    <a href="#">Graphics</a>
+                                    <a href="#">Flayers</a>
+                                </li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+
+                    <div class="item post-slide2">
+                        <div class="post-img">
+                            <a href="#"><img src="http://bestjquery.com/tutorial/news-slider/demo33/images/img-2.jpg" alt=""></a>
+                        </div>
+                        <div class="post-content">
+                            <h3 class="post-title"><a href="#">Latest News Post</a></h3>
+                            <ul class="post-bar list-inline">
+                                <li><i class="fa fa-calendar"></i> June 7, 2016</li>
+                                <li>
+                                    <i class="fa fa-folder"></i>
+                                    <a href="#">Mockup</a>
+                                    <a href="#">Graphics</a>
+                                    <a href="#">Flayers</a>
+                                </li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                    
+                    <div class="item post-slide2">
+                        <div class="post-img">
+                            <a href="#"><img src="http://bestjquery.com/tutorial/news-slider/demo33/images/img-3.jpg" alt=""></a>
+                        </div>
+                        <div class="post-content">
+                            <h3 class="post-title"><a href="#">Latest News Post</a></h3>
+                            <ul class="post-bar list-inline">
+                                <li><i class="fa fa-calendar"></i> June 5, 2016</li>
+                                <li>
+                                    <i class="fa fa-folder"></i>
+                                    <a href="#">Mockup</a>
+                                    <a href="#">Graphics</a>
+                                    <a href="#">Flayers</a>
+                                </li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                    
+                    <div class="item post-slide2">
+                        <div class="post-img">
+                            <a href="#"><img src="http://bestjquery.com/tutorial/news-slider/demo33/images/img-4.jpg" alt=""></a>
+                        </div>
+                        <div class="post-content">
+                            <h3 class="post-title"><a href="#">Latest News Post</a></h3>
+                            <ul class="post-bar list-inline">
+                                <li><i class="fa fa-calendar"></i> June 5, 2016</li>
+                                <li>
+                                    <i class="fa fa-folder"></i>
+                                    <a href="#">Mockup</a>
+                                    <a href="#">Graphics</a>
+                                    <a href="#">Flayers</a>
+                                </li>
+                            </ul>
+                            
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="col-md-6">
+                <div class="news2 owl-carousel owl-theme">
+                <div class="item post-slide2">
+                        <div class="post-img">
+                            <a href="#"><img src="http://bestjquery.com/tutorial/news-slider/demo33/images/img-1.jpg" alt=""></a>
+                        </div>
+                        <div class="post-content">
+                            <h3 class="post-title"><a href="#">Latest News Post</a></h3>
+                            <ul class="post-bar list-inline">
+                                <li><i class="fa fa-calendar"></i> June 5, 2016</li>
+                                <li>
+                                    <i class="fa fa-folder"></i>
+                                    <a href="#">Mockup</a>
+                                    <a href="#">Graphics</a>
+                                    <a href="#">Flayers</a>
+                                </li>
+                            </ul>
+                            
+                        </div>
+                    </div>
 
-            <div class="col-xs-12 col-sm-6 single-work">
-                <div class="recent-work-wrap">
-                    <img class="img-responsive" src="<?=$this->asset('/images/portfolio/item-2.png')?>" alt="">
-                    <div class="overlay">
-                        <div class="recent-work-inner">
-                            <a class="preview" href="images/portfolio/item-2.png" rel="prettyPhoto"><i class="fa fa-plus"></i></a>
+                    <div class="item post-slide2">
+                        <div class="post-img">
+                            <a href="#"><img src="http://bestjquery.com/tutorial/news-slider/demo33/images/img-2.jpg" alt=""></a>
+                        </div>
+                        <div class="post-content">
+                            <h3 class="post-title"><a href="#">Latest News Post</a></h3>
+                            <ul class="post-bar list-inline">
+                                <li><i class="fa fa-calendar"></i> June 7, 2016</li>
+                                <li>
+                                    <i class="fa fa-folder"></i>
+                                    <a href="#">Mockup</a>
+                                    <a href="#">Graphics</a>
+                                    <a href="#">Flayers</a>
+                                </li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                    
+                    <div class="item post-slide2">
+                        <div class="post-img">
+                            <a href="#"><img src="http://bestjquery.com/tutorial/news-slider/demo33/images/img-3.jpg" alt=""></a>
+                        </div>
+                        <div class="post-content">
+                            <h3 class="post-title"><a href="#">Latest News Post</a></h3>
+                            <ul class="post-bar list-inline">
+                                <li><i class="fa fa-calendar"></i> June 5, 2016</li>
+                                <li>
+                                    <i class="fa fa-folder"></i>
+                                    <a href="#">Mockup</a>
+                                    <a href="#">Graphics</a>
+                                    <a href="#">Flayers</a>
+                                </li>
+                            </ul>
+                            
+                        </div>
+                    </div>
+                    
+                    <div class="item post-slide2">
+                        <div class="post-img">
+                            <a href="#"><img src="http://bestjquery.com/tutorial/news-slider/demo33/images/img-4.jpg" alt=""></a>
+                        </div>
+                        <div class="post-content">
+                            <h3 class="post-title"><a href="#">Latest News Post</a></h3>
+                            <ul class="post-bar list-inline">
+                                <li><i class="fa fa-calendar"></i> June 5, 2016</li>
+                                <li>
+                                    <i class="fa fa-folder"></i>
+                                    <a href="#">Mockup</a>
+                                    <a href="#">Graphics</a>
+                                    <a href="#">Flayers</a>
+                                </li>
+                            </ul>
+                            
                         </div>
                     </div>
                 </div>
             </div>
+ 
+                <div class="col-md-12">
+                    <div id="news-slider2" class="owl-carousel">
+                        
+                        <div class="post-slide2">
+                            <div class="post-img">
+                                <a href="#"><img src="http://bestjquery.com/tutorial/news-slider/demo33/images/img-1.jpg" alt=""></a>
+                            </div>
+                            <div class="post-content">
+                                <h3 class="post-title"><a href="#">Latest News Post</a></h3>
+                                <ul class="post-bar list-inline">
+                                    <li><i class="fa fa-calendar"></i> June 5, 2016</li>
+                                    <li>
+                                        <i class="fa fa-folder"></i>
+                                        <a href="#">Mockup</a>
+                                        <a href="#">Graphics</a>
+                                        <a href="#">Flayers</a>
+                                    </li>
+                                </ul>
+                                
+                            </div>
+                        </div>
+
+                        <div class="post-slide2">
+                            <div class="post-img">
+                                <a href="#"><img src="http://bestjquery.com/tutorial/news-slider/demo33/images/img-2.jpg" alt=""></a>
+                            </div>
+                            <div class="post-content">
+                                <h3 class="post-title"><a href="#">Latest News Post</a></h3>
+                                <ul class="post-bar list-inline">
+                                    <li><i class="fa fa-calendar"></i> June 7, 2016</li>
+                                    <li>
+                                        <i class="fa fa-folder"></i>
+                                        <a href="#">Mockup</a>
+                                        <a href="#">Graphics</a>
+                                        <a href="#">Flayers</a>
+                                    </li>
+                                </ul>
+                                
+                            </div>
+                        </div>
+                        
+                        <div class="post-slide2">
+                            <div class="post-img">
+                                <a href="#"><img src="http://bestjquery.com/tutorial/news-slider/demo33/images/img-3.jpg" alt=""></a>
+                            </div>
+                            <div class="post-content">
+                                <h3 class="post-title"><a href="#">Latest News Post</a></h3>
+                                <ul class="post-bar list-inline">
+                                    <li><i class="fa fa-calendar"></i> June 5, 2016</li>
+                                    <li>
+                                        <i class="fa fa-folder"></i>
+                                        <a href="#">Mockup</a>
+                                        <a href="#">Graphics</a>
+                                        <a href="#">Flayers</a>
+                                    </li>
+                                </ul>
+                                
+                            </div>
+                        </div>
+                        
+                        <div class="post-slide2">
+                            <div class="post-img">
+                                <a href="#"><img src="http://bestjquery.com/tutorial/news-slider/demo33/images/img-4.jpg" alt=""></a>
+                            </div>
+                            <div class="post-content">
+                                <h3 class="post-title"><a href="#">Latest News Post</a></h3>
+                                <ul class="post-bar list-inline">
+                                    <li><i class="fa fa-calendar"></i> June 5, 2016</li>
+                                    <li>
+                                        <i class="fa fa-folder"></i>
+                                        <a href="#">Mockup</a>
+                                        <a href="#">Graphics</a>
+                                        <a href="#">Flayers</a>
+                                    </li>
+                                </ul>
+                                
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            
+      
 
         </div>
-        <!--/.row-->
-
-        <div class="row">
-        <div class="news owl-carousel owl-theme">
-            <div class="item">
-                <img src="<?=$this->asset('/images/portfolio/item-1.png')?>" alt="Snow" style="width:100%;">
-                <div class="bottom-right">Bottom Right</div>
-            </div>
-            <div class="item">
-                <img src="<?=$this->asset('/images/portfolio/item-1.png')?>" alt="Snow" style="width:100%;">
-                <div class="bottom-right">Bottom Right</div>
-            </div>
-            <div class="item">
-                <img src="<?=$this->asset('/images/portfolio/item-1.png')?>" alt="Snow" style="width:100%;">
-                <div class="bottom-right">Bottom Right</div>
-            </div>
-            <div class="item">
-                <img src="<?=$this->asset('/images/portfolio/item-1.png')?>" alt="Snow" style="width:100%;">
-                <div class="bottom-right">Bottom Right</div>
-            </div>
-            <div class="item">
-                <img src="<?=$this->asset('/images/portfolio/item-1.png')?>" alt="Snow" style="width:100%;">
-                <div class="bottom-right">Bottom Right</div>
-            </div>
-            <div class="item">
-                <img src="<?=$this->asset('/images/portfolio/item-1.png')?>" alt="Snow" style="width:100%;">
-                <div class="bottom-right">Bottom Right</div>
-            </div>
-            <div class="item">
-                <img src="<?=$this->asset('/images/portfolio/item-1.png')?>" alt="Snow" style="width:100%;">
-                <div class="bottom-right">Bottom Right</div>
-            </div>
-            <div class="item">
-                <img src="<?=$this->asset('/images/portfolio/item-1.png')?>" alt="Snow" style="width:100%;">
-                <div class="bottom-right">Bottom Right</div>
-            </div>
-        </div>
-
-        </div>
-
+        <!-- /.endrow -->
         <div class="clearfix text-center">
             <br>
             <br>
